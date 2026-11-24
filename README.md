@@ -1,5 +1,4 @@
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Rick%20Das&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Tech%20Enthusiast%20%7C%20App%20%26%20Web%20Developer&descSize=20&descAlignY=60" alt="Rick Das header"/>
+<!-- ANIMATED HEADER --> <img width="100%" src="assets/banner.svg" alt="Rick Das banner"/> <div align="center"> <a href="https://github.com/RickDas32k"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4D6D&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rick+Das;Building+Android+apps+in+Kotlin+%F0%9F%93%B1;Crafting+web+experiences+with+Next.js+%E2%9A%A1;IT+Admin+%40+DPS+Gangtok+%F0%9F%8F%94%EF%B8%8F;Turning+ideas+into+real-world+tech+%F0%9F%9A%80" alt="Typing SVG"/> </a> <img src="https://komarev.com/ghpvc/?username=RickDas32k&label=Profile+Views&color=ff4d6d&style=for-the-badge" alt="Profile views"/> </div>
 
 <div align="center">
 
