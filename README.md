@@ -53,14 +53,6 @@
       <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 BitChord Lite</h3>
-      Android recreation of BitChord: search, playback, queue, mini player, synced lyrics, and artwork-themed now-playing screen.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-    </td>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
       Dark, red-accent portfolio with scroll-driven animated map (Earth → India → Gangtok) and HUD-style hero.
