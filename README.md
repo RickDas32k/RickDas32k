@@ -45,13 +45,14 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🎟️ Athlete Registration System</h3>
-      Multi-step registration with dynamic UPI payment, branded confirmation emails, PDF entry tickets, and an admin dashboard.
+      <h3><a href="https://github.com/RickDas32k/GANITADDA">🧮 GanitAdda</a></h3>
+      REPLACE: one or two lines on what it does, e.g. an interactive math learning platform with practice problems and progress tracking.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
+  </tr>
   </tr>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
