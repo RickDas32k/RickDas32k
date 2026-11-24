@@ -6,7 +6,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🍍 PineApple Music</h3>
-      <img src="https://img.shields.io/badge/STATUS-LIVE-2ea44f?style=flat-square&logo=statuspage&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square"/>
       <br/><br/>
       Ad-free Android music streaming app with a frosted-glass UI, synced lyrics, and automatic offline song cache.
       <br/><br/>
@@ -16,7 +16,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🚌 School Transport Management System</h3>
-      <img src="https://img.shields.io/badge/STATUS-ONGOING-f59e0b?style=flat-square&logo=statuspage&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-Ongoing-f59e0b?style=flat-square"/>
       <br/><br/>
       Full ERP for 50+ buses and 1,500+ students with role-based access, mobile-first PWA for drivers, and OCR odometer logging.
       <br/><br/>
@@ -47,7 +47,7 @@
   <tr>
     <td colspan="2" align="center" valign="top">
       <h3>🧮 GanitAdda</h3>
-      <img src="https://img.shields.io/badge/STATUS-ONGOING-f59e0b?style=flat-square&logo=statuspage&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-Ongoing-f59e0b?style=flat-square"/>
       <br/><br/>
       Modern, high-performance educational e-commerce platform with animated UI, serverless PostgreSQL, and cloud file storage.
       <br/><br/>
