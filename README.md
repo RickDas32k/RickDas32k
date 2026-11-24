@@ -6,6 +6,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🍍 PineApple Music</h3>
+      <img src="https://img.shields.io/badge/STATUS-LIVE-2ea44f?style=flat-square&logo=statuspage&logoColor=white"/>
+      <br/><br/>
       Ad-free Android music streaming app with a frosted-glass UI, synced lyrics, and automatic offline song cache.
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -14,6 +16,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>🚌 School Transport Management System</h3>
+      <img src="https://img.shields.io/badge/STATUS-ONGOING-f59e0b?style=flat-square&logo=statuspage&logoColor=white"/>
+      <br/><br/>
       Full ERP for 50+ buses and 1,500+ students with role-based access, mobile-first PWA for drivers, and OCR odometer logging.
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -40,8 +44,25 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3><a href="https://github.com/RickDas32k/GANITADDA">🧮 GanitAdda</a></h3>
+      <img src="https://img.shields.io/badge/STATUS-ONGOING-f59e0b?style=flat-square&logo=statuspage&logoColor=white"/>
+      <br/><br/>
+      Modern, high-performance educational e-commerce platform with animated UI, serverless PostgreSQL, and cloud file storage.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=flat-square&logo=postgresql&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel_Blob-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
