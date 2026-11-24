@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3><a href="https://github.com/RickDas32k/GANITADDA">🧮 GanitAdda</a></h3>
+      <h3>🧮 GanitAdda</h3>
       <img src="https://img.shields.io/badge/STATUS-ONGOING-f59e0b?style=flat-square&logo=statuspage&logoColor=white"/>
       <br/><br/>
       Modern, high-performance educational e-commerce platform with animated UI, serverless PostgreSQL, and cloud file storage.
